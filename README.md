@@ -14,7 +14,7 @@ Here are 2 quick and painless ways to contribute to this project:
 - Add a profile page to the `profiles` directory
 - Create a simple "Hello, World" script in a language of your choice
 
-Choose one or all 2, make a pull request for your work and wait for it to be merged!
+Choose one or all 2, make a pull request for your work and wait for it to be merged!!
 
 ## Getting started
 
