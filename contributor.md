@@ -15,3 +15,18 @@ LMA
 ### Profile Link
 
 [Raghav_bajaj](https://github.com/Raghav-Bajaj)
+
+
+# Mokshablr
+
+### Location
+
+India
+
+### Academics
+
+B.Tech
+
+### Interests
+
+- Cycling , Gaming , Tennis
