@@ -50,3 +50,6 @@ B.Tech in Electrical Engineering
 
 [Hemanth_Raj](https://github.com/hemanthraj2001)
 
+name:tanay
+age:18
+location:BAngalore  
