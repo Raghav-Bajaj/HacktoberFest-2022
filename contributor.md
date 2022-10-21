@@ -50,3 +50,6 @@ B.Tech in Electrical Engineering
 
 [Hemanth_Raj](https://github.com/hemanthraj2001)
 
+Vedanth
+18
+Bangalore
