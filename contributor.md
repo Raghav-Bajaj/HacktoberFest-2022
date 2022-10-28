@@ -50,6 +50,11 @@ B.Tech in Electrical Engineering
 
 [Hemanth_Raj](https://github.com/hemanthraj2001)
 
-Vedanth
-18
-Bangalore
+# name:tanay
+## age:18
+## location:BAngalore  
+
+# name : Vedanth
+## age : 18
+## location : Bangalore
+
