@@ -58,3 +58,19 @@ B.Tech in Electrical Engineering
 ## age : 18
 ## location : Bangalore
 
+# Arun Kumar
+
+### Location
+
+Noida
+
+### Academics
+
+Manipal
+
+### Interests
+
+- Cycling , TT, Doodling
+
+### Profile Link
+
