@@ -74,3 +74,22 @@ Manipal
 
 ### Profile Link
 
+
+# Chinthalapudi Varshini
+
+### Location
+
+Rajahmundry
+
+### Academics
+
+B.Tech 
+
+### Interests
+
+- Drawing,Reading Books
+
+### Profile Link
+
+[Varshini901](https://github.com/varshini901)
+
