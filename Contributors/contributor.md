@@ -1,5 +1,5 @@
-#### Name: [Raghav](https://github.com/Raghav-Bajaj/)
+#### Name: [RaghavBj](https://github.com/raghavbj/)
 
-- Place: Noida
+- Place: Saharanpur
 - Bio: Tech learner
-- GitHub: [Raghav_Bajaj](https://github.com/Raghav-Bajaj/)
+- GitHub: [Raghav_Bajaj](https://github.com/raghavbj/
